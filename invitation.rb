@@ -7,3 +7,8 @@ party_name=gets.strip
 date=gets.strip
 time=gets.strip
 host_name=gets.strip�
+puts "You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than October 30.
+ 
+Sincerely,
+ 
+Harry Potter"
