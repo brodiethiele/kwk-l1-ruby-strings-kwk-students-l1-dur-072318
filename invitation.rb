@@ -6,4 +6,4 @@ puts "Dear #{guest_name},"
 party_name=gets.strip
 date=gets.strip
 time=gets.strip
-host_name=gets.strip🌳
+host_name=gets.strip�
