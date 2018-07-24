@@ -8,7 +8,7 @@ party_name=gets.strip
 puts "What date is the party?"
 date=gets.strip
 puts "When is the party?"
-time=gets.
+time=gets.strip
 puts "What is your name?"
 host_name=gets.strip
 puts "Dear #{guest_name},"
